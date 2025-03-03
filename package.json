@@ -13,6 +13,7 @@
     "fullstack-contact7": "file:",
     "next": "15.1.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "vercel": "^41.3.0"
   }
 }
